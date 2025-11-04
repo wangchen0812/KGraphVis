@@ -1,0 +1,259 @@
+[
+    {
+        "source_info": {
+            "sources": [
+                {
+                    "source_file": "傅玉和(Deepseek).txt",
+                    "source_type": "LLM抽取"
+                },
+                {
+                    "source_file": "侏儒山战役.txt",
+                    "source_type": "LLM抽取-战役详情"
+                }
+            ]
+        },
+        "impact": "彻底拔除了日伪军楔入根据地心脏的钉子，使第五师在江汉平原的三块主要根据地连成一片，为湘鄂豫抗日根据地的巩固和发展创造了极为有利的条件",
+        "battle_id": "battle_6bafb657931f9c8f",
+        "time_details": {
+            "start_date": "1941-12-26",
+            "end_date": "1942-02-05",
+            "description": "1941年12月26日至1942年2月5日"
+        },
+        "process_and_tactics": "李先念采取了“掏心”战术，即集中优势兵力，首先秘密、迅速地突袭并攻克了日伪军的指挥中心和核心据点侏儒山。得手后，立即挥师席卷外围的消泗、管家场等据点。战斗中，新四军首次将缴获的火炮编成炮兵营参战，对攻坚起到了关键作用",
+        "result": {
+            "outcome": "新四军胜利",
+            "casualties_and_captives": "毙伤日军200余人、伪军500余人，俘虏伪军师长刘国钧以下1800余人",
+            "spoils_of_war": "缴获山炮2门、迫击炮7门、轻重机枪50余挺及大量军用物资"
+        },
+        "location_details": {
+            "province": "湖北省",
+            "city": "武汉市",
+            "district": "蔡甸区",
+            "specific_area": "侏儒山地区",
+            "description": "江汉平原水网地带，是日伪控制武汉外围、分割根据地的重要枢纽"
+        },
+        "event_id": "event_85f55b1a72493a8f",
+        "belligerents": [
+            {
+                "side": "新四军",
+                "units": [
+                    "第五师第十三旅",
+                    "第十四旅",
+                    "师特务团"
+                ],
+                "strength": "约1万人",
+                "commanders": [
+                    {
+                        "name": "李先念",
+                        "position": "第五师师长兼政委"
+                    }
+                ]
+            },
+            {
+                "side": "日伪军",
+                "units": [
+                    "日军第3师团一部",
+                    "汪伪警卫第2师"
+                ],
+                "strength": "约3000余人",
+                "commanders": [
+                    {
+                        "name": "刘国钧",
+                        "position": "伪军师长"
+                    }
+                ]
+            }
+        ],
+        "background": "为粉碎日军对鄂中地区的“扫荡”，打通天（门）东、汉（阳）川、沔（阳）南三块根据地的联系",
+        "name": "侏儒山战役",
+        "category": "战役事件"
+    },
+    {
+        "source_info": {
+            "sources": [
+                {
+                    "source_file": "傅玉和(Deepseek).txt",
+                    "source_type": "LLM抽取"
+                },
+                {
+                    "source_file": "侏儒山战役.txt",
+                    "source_type": "LLM抽取-战役详情"
+                }
+            ]
+        },
+        "impact": "彻底拔除了日伪军楔入根据地心脏的钉子，使第五师在江汉平原的三块主要根据地连成一片，为湘鄂豫抗日根据地的巩固和发展创造了极为有利的条件",
+        "battle_id": "battle_6bafb657931f9c8f",
+        "time_details": {
+            "start_date": "1941-12-26",
+            "end_date": "1942-02-05",
+            "description": "1941年12月26日至1942年2月5日"
+        },
+        "process_and_tactics": "李先念采取了“掏心”战术，即集中优势兵力，首先秘密、迅速地突袭并攻克了日伪军的指挥中心和核心据点侏儒山。得手后，立即挥师席卷外围的消泗、管家场等据点。战斗中，新四军首次将缴获的火炮编成炮兵营参战，对攻坚起到了关键作用",
+        "result": {
+            "outcome": "新四军胜利",
+            "casualties_and_captives": "毙伤日军200余人、伪军500余人，俘虏伪军师长刘国钧以下1800余人",
+            "spoils_of_war": "缴获山炮2门、迫击炮7门、轻重机枪50余挺及大量军用物资"
+        },
+        "location_details": {
+            "province": "湖北省",
+            "city": "武汉市",
+            "district": "蔡甸区",
+            "specific_area": "侏儒山地区",
+            "description": "江汉平原水网地带，是日伪控制武汉外围、分割根据地的重要枢纽"
+        },
+        "event_id": "event_9f1069220888e31d",
+        "belligerents": [
+            {
+                "side": "新四军",
+                "units": [
+                    "第五师第十三旅",
+                    "第十四旅",
+                    "师特务团"
+                ],
+                "strength": "约1万人",
+                "commanders": [
+                    {
+                        "name": "李先念",
+                        "position": "第五师师长兼政委"
+                    }
+                ]
+            },
+            {
+                "side": "日伪军",
+                "units": [
+                    "日军第3师团一部",
+                    "汪伪警卫第2师"
+                ],
+                "strength": "约3000余人",
+                "commanders": [
+                    {
+                        "name": "刘国钧",
+                        "position": "伪军师长"
+                    }
+                ]
+            }
+        ],
+        "background": "为粉碎日军对鄂中地区的“扫荡”，打通天（门）东、汉（阳）川、沔（阳）南三块根据地的联系",
+        "name": "侏儒山战役",
+        "category": "战役事件"
+    },
+    {
+        "source_info": {
+            "sources": [
+                {
+                    "source_file": "傅玉和(Deepseek).txt",
+                    "source_type": "LLM抽取"
+                },
+                {
+                    "source_file": "侏儒山战役.txt",
+                    "source_type": "LLM抽取-战役详情"
+                }
+            ]
+        },
+        "impact": "彻底拔除了日伪军楔入根据地心脏的钉子，使第五师在江汉平原的三块主要根据地连成一片，为湘鄂豫抗日根据地的巩固和发展创造了极为有利的条件",
+        "battle_id": "battle_6bafb657931f9c8f",
+        "time_details": {
+            "start_date": "1941-12-26",
+            "end_date": "1942-02-05",
+            "description": "1941年12月26日至1942年2月5日"
+        },
+        "process_and_tactics": "李先念采取了“掏心”战术，即集中优势兵力，首先秘密、迅速地突袭并攻克了日伪军的指挥中心和核心据点侏儒山。得手后，立即挥师席卷外围的消泗、管家场等据点。战斗中，新四军首次将缴获的火炮编成炮兵营参战，对攻坚起到了关键作用",
+        "result": {
+            "outcome": "新四军胜利",
+            "casualties_and_captives": "毙伤日军200余人、伪军500余人，俘虏伪军师长刘国钧以下1800余人",
+            "spoils_of_war": "缴获山炮2门、迫击炮7门、轻重机枪50余挺及大量军用物资"
+        },
+        "location_details": {
+            "province": "湖北省",
+            "city": "武汉市",
+            "district": "蔡甸区",
+            "specific_area": "侏儒山地区",
+            "description": "江汉平原水网地带，是日伪控制武汉外围、分割根据地的重要枢纽"
+        },
+        "event_id": "event_ba2665797ce13daf",
+        "belligerents": [
+            {
+                "side": "新四军",
+                "units": [
+                    "第五师第十三旅",
+                    "第十四旅",
+                    "师特务团"
+                ],
+                "strength": "约1万人",
+                "commanders": [
+                    {
+                        "name": "李先念",
+                        "position": "第五师师长兼政委"
+                    }
+                ]
+            },
+            {
+                "side": "日伪军",
+                "units": [
+                    "日军第3师团一部",
+                    "汪伪警卫第2师"
+                ],
+                "strength": "约3000余人",
+                "commanders": [
+                    {
+                        "name": "刘国钧",
+                        "position": "伪军师长"
+                    }
+                ]
+            }
+        ],
+        "background": "为粉碎日军对鄂中地区的“扫荡”，打通天（门）东、汉（阳）川、沔（阳）南三块根据地的联系",
+        "name": "侏儒山战役",
+        "category": "战役事件"
+    }
+]
+
+[
+    {
+        "source_info": {
+            "source_file": "任质斌(新四军人物志(下)江苏人民出版社).txt",
+            "source_type": "LLM抽取"
+        },
+        "aliases": [],
+        "gender": "男",
+        "birth_date": "1915",
+        "name": "任质斌",
+        "birth_place": "山东省青岛市（即墨县）",
+        "person_id": "person_7adeeaf1f7789843"
+    },
+    {
+        "source_info": {
+            "source_file": "任质斌(鄂豫边区新四军人物志湖北人民出版社).txt",
+            "source_type": "LLM抽取"
+        },
+        "aliases": [],
+        "gender": "男",
+        "birth_date": "1915",
+        "name": "任质斌",
+        "birth_place": "山东省青岛市即墨区（即墨县）",
+        "person_id": "person_8645a056a8ecbaf1",
+        "death_date": "1998"
+    },
+    {
+        "source_info": {
+            "source_file": "任质斌(Deepseek).txt",
+            "source_type": "LLM抽取"
+        },
+        "aliases": [],
+        "gender": "男",
+        "name": "任质斌",
+        "person_id": "person_88de8bd41f1d64de"
+    },
+    {
+        "source_info": {
+            "source_file": "任质斌(新四军事件人物录).txt",
+            "source_type": "LLM抽取"
+        },
+        "aliases": [],
+        "gender": "男",
+        "birth_date": "1915",
+        "name": "任质斌",
+        "birth_place": "山东省青岛市（即墨县）",
+        "person_id": "person_a5cf7c280c10a7a7"
+    }
+]
